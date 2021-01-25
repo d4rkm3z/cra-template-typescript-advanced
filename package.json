@@ -1,0 +1,35 @@
+{
+  "name": "cra-template-typescript-advanced",
+  "version": "0.1.0",
+  "author": {
+     "name": "Kirill.Sadovnikov",
+     "email": "d4rkm3z@gmail.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "plop",
+    "prettier",
+    "cra-template",
+    "stylelint",
+    "commitizen"
+  ],
+  "description": "This is advanced TypeScript template for Create React App with Plop, Prettier, Storybook, Husky, Stylelint, Commitizen and custom configurations",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d4rkm3z/cra-template-typescript-advanced.git"
+  },
+  "bugs": {
+    "url": "https://github.com/d4rkm3z/cra-template-typescript-advanced/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
