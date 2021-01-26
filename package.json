@@ -1,9 +1,9 @@
 {
   "name": "cra-template-typescript-advanced",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
-     "name": "Kirill.Sadovnikov",
-     "email": "d4rkm3z@gmail.com"
+    "name": "Kirill.Sadovnikov",
+    "email": "d4rkm3z@gmail.com"
   },
   "license": "MIT",
   "engines": {
@@ -27,6 +27,9 @@
   },
   "bugs": {
     "url": "https://github.com/d4rkm3z/cra-template-typescript-advanced/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "files": [
     "template",
